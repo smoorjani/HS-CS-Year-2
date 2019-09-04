@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524498928 source:e:\linkedpractice\main.cpp
+	<iostream>
+	<windows.h>
+
